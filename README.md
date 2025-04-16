@@ -19,7 +19,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/NULpj/clipboard-logger.git
+   git clone https://github.com/NULpj/pyClip.git
    cd pyClip
    ```
 
@@ -33,7 +33,7 @@
 ## ▶️ Usage
 
 ```bash
-python clipboard_logger.py [options]
+python main.py [options]
 ```
 
 ### Options
