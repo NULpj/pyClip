@@ -1,6 +1,6 @@
-# 📋 Clipboard Logger
+# 📋 pyClip - Clipboard Logger
 
-**Clipboard Logger** is a simple Python script that automatically logs copied clipboard text into a file and displays it in the terminal with a timestamp.
+**pyClip** is a simple Python script that automatically logs copied clipboard text into a file and displays it in the terminal with a timestamp.
 
 ---
 
@@ -19,8 +19,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/clipboard-logger.git
-   cd clipboard-logger
+   git clone https://github.com/NULpj/clipboard-logger.git
+   cd pyClip
    ```
 
 2. Install dependencies:
@@ -55,10 +55,9 @@ python clipboard_logger.py -f mylog.txt -c -s
 ## 🧪 Example Output
 
 ```bash
-[2025-04-16 18:05:17] 📋 New text copied:
-import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
+[2025-04-16 18:05:17]
+Hello World
+LOL
 ----------------------------------------
 ```
 
@@ -73,4 +72,4 @@ from urllib.parse import urljoin, urlparse
 
 ## 📜 License
 
-MIT License.
+GNU License.
